@@ -23,3 +23,5 @@
 	filemode = false
 [http]
 	sslVerify = false
+	postBuffer = 524288000
+
