@@ -26,4 +26,6 @@
 [http]
 	sslVerify = false
 	postBuffer = 524288000
+[branch]
+	autosetuprebase = remote
 
