@@ -28,4 +28,6 @@
 	postBuffer = 524288000
 [branch]
 	autosetuprebase = remote
+[push]
+	default = current
 
