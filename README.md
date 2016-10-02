@@ -1,2 +1,4 @@
 git-config
 ==========
+
+vim ~/.gitconfig
